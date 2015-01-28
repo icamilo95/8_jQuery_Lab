@@ -1,0 +1,11 @@
+.hidden {
+	display: none;
+}
+
+#message-digits {
+	color: red;
+}
+
+#message-good {
+	color: green;
+}
